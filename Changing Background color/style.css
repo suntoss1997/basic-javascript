@@ -1,0 +1,14 @@
+body{
+    min-height: 100vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.colorBtn { 
+padding: 0.5rem 0.25rem;
+border: 3px solid #fefe;
+border-radius: 7px;
+color: #fefefe;
+background:black;
+font-size: 0.3rem;
+}
